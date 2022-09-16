@@ -1,0 +1,36 @@
+---
+sidebar: sidebar 
+permalink: task-view-e-series.html 
+keywords: e-series, cluster, view, volumes, hosts, management ip, serial number, system id, capacity, allocated capacity 
+summary: 发现E系列系统后、您可以查看有关容量分布、卷和主机的详细信息。 
+---
+= 查看E系列系统
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+发现E系列系统后、您可以查看有关容量分布、卷和主机的详细信息。
+
+.步骤
+. 在"画布"中、双击要查看的E系列工作环境的名称。
+. 选择任何选项卡可查看有关E系列系统的更多详细信息：
++
+** *概述*：系统容量分布(已分配、可用和未分配容量)、卷数、主机数等的详细视图。
++
+image:screenshot-overview.png["E系列工作环境中\"概述\"选项卡的屏幕截图。"]
+
+** *卷*：有关系统上卷的详细信息、包括分配、RAID级别、已分配容量等。
++
+image:screenshot-volumes.png["E系列工作环境中卷选项卡的屏幕截图。"]
+
+** *主机*：有关向存储系统上的卷发送I/O的主机的详细信息。
++
+image:screenshot-hosts.png["E系列工作环境中的主机选项卡的屏幕截图。"]
+
+
+
+
