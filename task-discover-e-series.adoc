@@ -15,7 +15,7 @@ summary: BlueXP可以发现内部环境中的E系列存储系统。通过将E系
 
 BlueXP可以发现内部环境中的E系列存储系统。通过将E系列系统添加到BlueXP、您可以全面了解混合多云中的数据。
 
-.您需要什么？ #8217 ；将需要什么
+.您需要的内容
 * 一种安装在云提供商或内部环境中并通过网络连接到E系列存储系统的连接器。
 +
 https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["了解有关连接器以及如何创建连接器的更多信息"^]
@@ -38,6 +38,7 @@ image:screenshot-cluster-details.png["显示E系列集群详细信息页面的�
 
 
 
+.结果
 BlueXP会发现E系列存储系统、并将其作为工作环境添加到Canvas上。
 
 image:screenshot-canvas.png["一个屏幕截图、显示了BlueXP画布上的E系列工作环境。"]
